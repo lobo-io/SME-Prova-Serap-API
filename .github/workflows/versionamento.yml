@@ -2,7 +2,7 @@ name: Versionamento
 on:
   push:
     branches:
-      - development
+      - master
 jobs:
   release:
     name: Release
