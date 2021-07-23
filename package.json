@@ -1,24 +1,22 @@
 {
-  "name": "SME-NovoSGP",
-  "version": "1.2.0",
-  "description": "SME-NovoSGP - Semantic release",
+  "name": "sme-prova-serap-api",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "dependencies": {
-    "semantic-release": "^17.2.3",
-    "semantic-release-cli": "^5.2.3"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prefeiturasp/SME-NovoSGP.git"
+    "url": "git+https://github.com/lobo-io/SME-Prova-Serap-API.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prefeiturasp/SME-NovoSGP/issues"
+    "url": "https://github.com/lobo-io/SME-Prova-Serap-API/issues"
   },
-  "homepage": "https://github.com/prefeiturasp/SME-NovoSGP#readme"
+  "homepage": "https://github.com/lobo-io/SME-Prova-Serap-API#readme",
+  "devDependencies": {
+    "semantic-release": "^17.4.4"
+  }
 }
